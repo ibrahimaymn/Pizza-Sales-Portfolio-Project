@@ -1,9 +1,12 @@
+
 # Pizza Sales Analysis Dashboard  
 
 ## Overview  
 This project analyzes pizza sales data using SQL Server and Power BI.  
 The goal is to calculate KPIs, explore sales trends, and provide insights into customer behavior.  
 
+![Dashboard Screenshots](https://github.com/ibrahimaymn/Pizza-Sales-Portfolio-Project/blob/main/Dashboard%20Screenshots/Home.png?raw=true)
+![Dashboard Screenshots](https://github.com/ibrahimaymn/Pizza-Sales-Portfolio-Project/blob/main/Dashboard%20Screenshots/Best-Worst%20Sellers.png?raw=true)
 ---
 
 ## Key Metrics (KPIs)  
@@ -51,3 +54,4 @@ The goal is to calculate KPIs, explore sales trends, and provide insights into c
 - Power Query  
 - DAX  
 - Power BI  
+
